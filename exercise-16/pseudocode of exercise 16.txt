@@ -1,0 +1,57 @@
+// two, one-line comment
+
+opening <= [first, second, third, fourth, fifth, sixth] (arrays of string)
+
+for each (member in opening array) {
+	(code repeat for each member in opening array)
+	display message in opening array
+}
+
+procedure randomScenario(number) {
+	return random number times parameter (number)
+}
+
+choice1 <= [array consist of three strings (first, second, third)]
+display the output of choice1 array using randomScenario procedure plus a string consisting a new message
+
+storyScenario <= [consisting many string message]
+for each (member in storyScenario array) {
+	(code repeat for each member in storyScenario)
+	display a result of repeated code in storyScenario
+}
+
+placeToThrow <= [consist of three string]
+choice2 <= [consist of a string plus result of random string in placeToThrow array times two plus another string ]
+
+display a random string inside of choice 2 minus one
+
+storyPartThree <= [consist of a bunch of string]
+for each (member in storyPartThree array) {
+	(code repeat for each member in storyPartThree array)
+	display a result of repeated looping in storyPartThree array
+}
+
+choice3 <= 'consist of empty string'/''
+
+procedure laneForked(empty parameter) {
+	leftRight <- random number times two
+	if (leftRight === 0) then
+		insert a string inside of choice3 variable
+	else if (leftRight > 0) then
+		insert another string inside of choice3
+}
+	return choice3
+}
+
+display laneForked procedure
+
+storyLastPart <= [consist a bunch of string inside an array]
+
+for each (member in storyLastPart array) {
+	(code repeat for each member in storyLastPart array)
+	display a result of repeated loop in storyLastPart array
+}
+
+/* comment consisting of 
+multiple lines */
+
